@@ -1,9 +1,9 @@
 Package: cats
-Title: What the Package Does (one line, title case)
+Title: Final Project, Cats Package 
 Version: 0.0.0.9000
 Authors@R: Dorothy Fraysier, dfraysier@mail.usf.edu
-Description: What the package does (one paragraph).
+Description: This package runs any cats functions placed within it. At the moment it displays those who are cool and who are not. 
 Depends: R (>= 3.5.2)
-License: What license is it under?
+License: Version 2
 Encoding: UTF-8
 LazyData: true
