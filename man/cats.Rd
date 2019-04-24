@@ -1,0 +1,2 @@
+setwd("..")
+install("cats")
